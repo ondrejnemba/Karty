@@ -1,0 +1,5 @@
+{
+  "name": "Generátor výukových kartiček",
+  "description": "Aplikace pro generování 36 černobílých výukových kartiček s českými popisky a ilustracemi ve formátu PDF.",
+  "requestFramePermissions": []
+}
